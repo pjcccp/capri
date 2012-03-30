@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="084107cf-c6bb-43a0-8d5d-22c2f5a77f5c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/capri.iml" afterPath="$PROJECT_DIR$/.idea/capri.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-    </list>
+    <list default="true" id="084107cf-c6bb-43a0-8d5d-22c2f5a77f5c" name="Default" comment="" />
     <ignored path="capri.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +25,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="19" selection-start="340" selection-end="340" vertical-scroll-proportion="0.31914893">
+            <state line="38" column="0" selection-start="784" selection-end="784" vertical-scroll-proportion="0.80851066">
               <folding />
             </state>
           </provider>
@@ -418,7 +413,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="19" selection-start="340" selection-end="340" vertical-scroll-proportion="0.31914893">
+        <state line="38" column="0" selection-start="784" selection-end="784" vertical-scroll-proportion="0.80851066">
           <folding />
         </state>
       </provider>
